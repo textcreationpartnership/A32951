@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be enquired of within the diocess of Hereford, in the first visitation of the Right Reverend father in God Gilbert Lord Bishop of Hereford in the year of Our Lord God 1692, and in the first year of his translation.</title>
+            <author>Church of England. Diocese of Hereford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32951</idno>
+            <idno type="STC">Wing C4049</idno>
+            <idno type="STC">ESTC R40825</idno>
+            <idno type="EEBO-CITATION">19329950</idno>
+            <idno type="OCLC">ocm 19329950</idno>
+            <idno type="VID">108643</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108643)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1683:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be enquired of within the diocess of Hereford, in the first visitation of the Right Reverend father in God Gilbert Lord Bishop of Hereford in the year of Our Lord God 1692, and in the first year of his translation.</title>
+                  <author>Church of England. Diocese of Hereford.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.], MDCXCII</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>[1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Pastoral letters and charges.</term>
+               <term>Visitations, Ecclesiastical --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108643:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <p>ARTICLES TO BE ENQUIRED OF Within the <hi>Dioceſs of Hereford,</hi> In the firſt VISITATION OF THE Right Reverend Father in God GILBERT LORD BISHOP OF <hi>Hereford,</hi> In the Year of our Lord God 1692. And in the firſt Year of his Tranſlation.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed in the Year MDCXCII.</p>
+            <pb facs="tcp:108643:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="instructions_for_oath-takers">
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="articles_of_visitation">
+            <list>
+               <gap reason="missing" extent="3 pages">
+                  <desc>〈3 pages missing〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:108643:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 111 -->
+               <item>as alſo a Regiſter Book of Parchment wherein to Enter the Names of all thoſe that are Chriſtened, Married or Buried within your Pariſh,<note place="margin">Can. <hi>70.</hi>
+                  </note> expreſſing the day, month and year of all ſuch Chriſtenings Mar<g ref="char:EOLhyphen"/>riages and Burials, and is the tranſcript thereof yearly within one month next after the 25th of March brought into the Biſhops Regiſter?</item>
+            </list>
+            <list>
+               <head>Concerning the Church-yard, Houſes, Glebe and Tythes belonging to the Church.</head>
+               <item>1. IS your Church-yard ſufficiently fenc'd with Walls or Rails,<note place="margin">Can. <hi>85.</hi>
+                  </note> hath any Perſon Encroach'd upon the ſame, have any Trees growing there been cut downe without allowance from the ordinary?</item>
+               <item>2. Is the houſe of your Parſon, Vicar, or Curate with all the out-houſes of it kept in good and ſuf<g ref="char:EOLhyphen"/>ficient Repair, have any of the ſaid houſes been defaced or pull'd downe without Licence from the Ordinary? and by whom? hath any Perſon En<g ref="char:EOLhyphen"/>croached upon any Garden, Yard, or Cloſe, be<g ref="char:EOLhyphen"/>longing to your Parſonage or Vicaridge houſe? or cut up any Trees growing thereon, or changed or removed the ancient marks and bounds of the ſame?</item>
+               <item>3. Have you a true and perfect Terrier of all your Glebe Lands,<note place="margin">Can. <hi>87.</hi>
+                  </note> Tythes and other poſſeſſions belonging to your Church by the view of honeſt men of your Pariſh by the appointment of the Bi<g ref="char:EOLhyphen"/>ſhop, ſo as the Parſon or Vicar be one, and are the ſame laid up in the Biſhops Regiſtry as is re<g ref="char:EOLhyphen"/>quired by the Canon?</item>
+               <item>4. Have any of the ancient Glebe-Lands be<g ref="char:EOLhyphen"/>longing to your Parſonage or Vicaridge been taken away or alienated by Leaſe Sale or Exchange with<g ref="char:EOLhyphen"/>out
+<pb n="5" facs="tcp:108643:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 111 -->Licence from the Ordinary and the Free conſent of the Incumbent, have any Incloſures been made in your Pariſh to the detriment of your Church.</item>
+            </list>
+            <list>
+               <head>Concerning the Clergy.</head>
+               <item>1. IS your Miniſter a Prieſt or Deacon Epiſco<g ref="char:EOLhyphen"/>pally ordained according to the Laws of the Church of England?<note place="margin">Injunct. Eliz. <hi>26.</hi>
+                  </note>
+               </item>
+               <item>2. Is he reſident among you, has he a Curate, what is the allowance of the Curate? or doth he officiate in any other Church? how far diſtant is it from your Church, doth he Marry any private<g ref="char:EOLhyphen"/>ly in a houſe,<note place="margin">Can. <hi>62.</hi>
+                  </note> without Banns or Licence?</item>
+               <item>3. Is divine Service duly performed on the Lord's day and Holydays? is the Litany read Wedneſdays and Fridays weekly,<note place="margin">
+                     <hi>Can.</hi> 15, 59, 61, <gap reason="illegible: damage" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, 69.</note> doth your Miniſter on Sun<g ref="char:EOLhyphen"/>days inſtruct the Youth in the Church Catechiſm and prepair them for confirmation by the Biſhop? doth he delay the Baptiſing of any Infant in dan<g ref="char:EOLhyphen"/>ger of Death, or are there any Infants or more aged perſons in your Pariſh unbaptized? or doth he admit the Parents of the Child or thoſe who have not received the Sacrament to be the God<g ref="char:EOLhyphen"/>father or Godmother?</item>
+               <item>4. Doth your Miniſter before Sermon uſe to pray for their preſent Majeſties <hi>King William</hi> and <hi>Queen Mary</hi> and the reſt of the Royal progeny,<note place="margin">Can. <hi>55.</hi>
+                  </note> and ex<g ref="char:EOLhyphen"/>hort the People to Obedience to them, and all other Magiſtrates in authority under them?</item>
+               <item>5. Doth your Miniſter conſtantly Preach in your Church or Chappel one Sermon every Sunday,<note place="margin">C<gap reason="illegible" extent="4+ letters">
+                        <desc>••••…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>, or if he doth not, doth he procure a Sermon to be Preached by ſome other Miniſter, or one of the <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+               </item>
+            </list>
+            <list>
+               <pb n="8" facs="tcp:108643:4"/>
+               <!-- PDF PAGE 112 -->
+               <item>2. Doth he keep your Church lock'd? doth he Toll or Ring the Bell before the beginning of Morning and Evening Prayer, and when any is dying, doth he upon notice Toll the Bell, that the Neighbours be thereby warned to recomend the dying Perſon to the Grace and Favour of God?</item>
+            </list>
+            <list>
+               <head>Concerning Hoſpitals Schools Phiſicians &amp;c.</head>
+               <item>1. DOth any in your Pariſh practiſe Phyſick, or Chirurgery, or any Woman exerciſe the Of<g ref="char:EOLhyphen"/>fice of a Midwife, without allowance or Licence from the Ordinary?</item>
+               <item>2. Doth any keep a publick or private School in your Pariſh without a Licence from the Biſhop or his Chancellors? Doth he Teach the Schollars in the Catechiſm of the Church of England, doth he cauſe them upon Sundays and Holydays orderly to repair to the Church or Chappel, and ſee that they behave themſelves quietly and humbly during time of Divine Service.</item>
+               <item>3. Is there any Hoſpital Alms-houſe or Free-ſchool founded in your Pariſh; is the yearly Revenue or Stipend ordered as it ought to be?</item>
+            </list>
+            <list>
+               <head>Concerning Eccleſiastical Officers.</head>
+               <item>1. WHether are there any Eccleſiaſtical Officers exerciſing Eccleſiaſtical Juriſdiction within this Dioceſs,<note place="margin">Can. <hi>135.</hi>
+                  </note> who do take or exact any extraordinary Fees for any Cauſe.</item>
+               <item>2. Whether are there placed by the Regiſter two Tables containing the ſeveral Rates and Sums of<note place="margin">
+                     <hi>Can.</hi> 136.</note>
+                  <pb n="9" facs="tcp:108643:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 112 -->all Fees due to the Judge and other Officers of your Courts, one in the uſual place and conſiſtory where the Court is kept, the other in his Regiſtry in ſuch ſort as every man may come to view the ſame without difficulty? and whether doth the Chancel<g ref="char:EOLhyphen"/>lor Arch-Deacon or Miniſter exact or extort any greater Fees or Sums of Mony than in the ſaid Ta<g ref="char:EOLhyphen"/>bles are contained?</item>
+               <item>3. Whether the Chancellor Arch-Deacon or Of<g ref="char:EOLhyphen"/>ficial, or any other Perſon uſeing Eccleſiaſtical Ju<g ref="char:EOLhyphen"/>riſdiction, ſpeed any Act in any Cauſe privately of themſelves, and not in the preſence of ſome publick Notarie or Actuary?</item>
+               <item>4. Whether doth the Chancellor Arch-Deacon or Official Commute or change any penance or Cor<g ref="char:EOLhyphen"/>poral puniſhment for any Mony without the conſent of the Biſhop? and what Mony have they or any of them received for ſuch commutation and of whom, when and what was the Offence for which any ſuch Sum of Mony was received or appointed to be paid?</item>
+            </list>
+            <list>
+               <head>Concerning Church-Wardens and Sidemen.</head>
+               <item>1. ARe your Church-Wardens duly elected ac<g ref="char:EOLhyphen"/>cording to the Cuſtome of your Pariſh,<note place="margin">Can. <hi>89.</hi>
+                  </note> and have the laſt Church-Wardens given up their Ac<g ref="char:EOLhyphen"/>counts, and delivered the Monys remaining in their hands to the Succeeding Church-Wardens, together with other things belonging to your Church?</item>
+               <item>2. Do they againſt every Communion provide Bread and Wine at the Pariſh Charges,<note place="margin">Rubr. Com. Can. <hi>20.</hi>
+                  </note> do they ſuffer no misbehavior or diſorder by Servants or Children within your Pariſh,<note place="margin">
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> in ſitting or leaning on the Communion Table, or by ſuffering Minſtrels
+<pb n="10" facs="tcp:108643:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 113 -->Morrice Dauncers, Hauks or Hounds to be brought into your Church?</item>
+               <item>3. Do they ſuffer no idle Perſons to walk,<note place="margin">Can. <hi>19.</hi>
+                  </note> talk or ſtand idle either in the Church, Church-Porch or Church-yard during the time of Divine Service and Sermon, but cauſing them either to come into the Church or elſe to depart? and do they often ſee where there be any tipling or drinking in any Inn Ale-houſe or Victualling houſe within your Pariſh during the time of Divine Service,<note place="margin">Can. <hi>90.</hi>
+                  </note> and pre<g ref="char:EOLhyphen"/>ſent all ſuch as are found thus tipling together with the Maſter or Miſtris of the ſaid houſe?</item>
+               <item>4. Do your Church-Wardens preſent all Offen<g ref="char:EOLhyphen"/>ces in your Pariſh at the Viſitation, and does any Man trouble or moleſt him for doing his Duty?</item>
+               <item>5. Have you (the Church-Wardens and Sidemen Sworne to give in true anſwer unto all theſe Ar<g ref="char:EOLhyphen"/>ticles of Enquiry in all their ſeveral Titles) taken ſufficient time to draw up your preſentments and therein conſulted your Miniſter for his faithful aſſiſtance?<note place="margin">
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note>
+               </item>
+            </list>
+            <p>For know you aſſuredly that as the true diſ<g ref="char:EOLhyphen"/>charging of your Office is the cheif means where<g ref="char:EOLhyphen"/>by publick diſorders and offences in your Pariſh may be reform'd and puniſhed, ſo if you wilfully refuſe to preſent ſuch crimes and faults as either you know to have been committed, or otherwiſe have heard of by publick fame; that in ſuch ca<g ref="char:EOLhyphen"/>ſes the Biſhop and his Officers are to proceed againſt you in their Eccleſiaſtical Courts as in caſes of wilful omiſſion and Perjury.</p>
+         </div>
+         <div type="notice">
+            <pb n="11" facs="tcp:108643:5"/>
+            <!-- PDF PAGE 113 -->
+            <head>Advertiſement.</head>
+            <p>THe Miniſters of every Pariſh whoſe duty it is to ſuppreſs all profaneſs if they ſee the Church-Wardens negligent to preſent, may and ought to do it themſelves.</p>
+            <p>The Miniſters are to take Notice that the Bi<g ref="char:EOLhyphen"/>ſhop at his Viſitation will be ready to Confirm thoſe that are brought to him and are fitted for that purpoſe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108643:6"/>
+            <!-- PDF PAGE 114 -->
+         </div>
+      </body>
+   </text>
+</TEI>
